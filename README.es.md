@@ -1,5 +1,7 @@
 # Reparación experimental de pantalla OLED — FeiyuTech G6 Plus
 
+[Fotos de la pantalla y guía de conexiones](docs/screen-wiring.es.md)
+
 Este proyecto prepara una modificación para el firmware **AJB/teclado Sony V1.10** del G6 Plus. La pantalla de reemplazo de un usuario se apagaba parcialmente tras unos segundos y mostraba un destello breve. Tras instalar esta variante, el usuario comunicó que funciona correctamente. Es un caso comprobado, no una garantía para todos los aparatos.
 
 El flex de la pantalla de reemplazo lleva `V01870-MF1-B`. No se ha identificado su controlador: SSD1315 es una hipótesis. El flex de la pantalla original llevaba `HP7240-01`.

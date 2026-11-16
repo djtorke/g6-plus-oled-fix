@@ -2,6 +2,8 @@
 
 [Español](README.es.md)
 
+[Display photographs and wiring guide](docs/screen-wiring.md)
+
 An experimental firmware patch for a **FeiyuTech G6 Plus** with a replacement 0.42-inch 72×40 OLED. The owner reported that the upper part went dark after a few seconds, with a brief full-screen flash. After installing the patched **AJB/keyboard Sony V1.10** firmware, the owner reported the screen works correctly. This is one successful report, not a compatibility guarantee.
 
 The replacement flex was marked `V01870-MF1-B`; its actual controller is unknown. SSD1315 is a working hypothesis. The original display flex was marked `HP7240-01`. The issue predates the replacement screen's patch and the original screen failed years after the previous firmware update.
